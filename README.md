@@ -7,7 +7,7 @@ This repository contains code to measure stereotypical bias in language models u
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/RonakR68/RSAI_Guardians_INLP-for-mitigating-Bias-in-LLM
     ```
 
 2. **Change to Working Directory:**
@@ -22,4 +22,4 @@ This repository contains code to measure stereotypical bias in language models u
 
 4. **Run the Notebook:**
 
-    Open and run the notebook `rsai_inlp_main.ipynb` in your Jupyter Notebook environment. This notebook contains the code to measure stereotypical bias, debias the models using INLP, and analyze the effectiveness of debiasing.
+    Open and run the notebook `rsai_inlp_main.ipynb` in your Jupyter Notebook environment. This notebook contains the code of all the experiments performed to measure stereotypical bias, debias the models using INLP, and analyze the effectiveness of debiasing along with the results obtained.
