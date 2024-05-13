@@ -23,3 +23,5 @@ This repository contains code to measure stereotypical bias in language models u
 4. **Run the Notebook:**
 
     Open and run the notebook `rsai_inlp_main.ipynb` in your Jupyter Notebook environment. This notebook contains the code of all the experiments performed to measure stereotypical bias, debias the models using INLP, and analyze the effectiveness of debiasing along with the results obtained.
+
+[Blog Link] (https://responsibleaispring2024.blogspot.com/2024/05/guardians-exploring-inlp-for-mitigating.html)
